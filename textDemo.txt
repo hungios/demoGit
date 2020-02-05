@@ -1,2 +1,6 @@
 hom nay ngay review demoGit 
+<<<<<<< HEAD
 Toi Branch-Test 2 thich cho nay chinh sua
+=======
+Toi Branch-Test 1 muon chinh sua cho nay duoc khong
+>>>>>>> branch-test1
