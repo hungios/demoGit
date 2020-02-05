@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 day la text cua branch test 2. 
+=======
+day la doan text cua Branch-Test2. Vui long khong chinh sua cua tui
+>>>>>>> branch-test2
